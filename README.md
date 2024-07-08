@@ -4,6 +4,12 @@
 
 This is a simple calculator application built using React.js. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## Deployment Link
+
+The application is deployed and can be accessed at the following link:
+
+[Deployment Link](https://shimmering-marshmallow-b5f841.netlify.app/)
+
 ## Installation
 
 ```bash
